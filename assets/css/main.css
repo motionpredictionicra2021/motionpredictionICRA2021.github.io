@@ -2923,6 +2923,7 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		min-height: 50% !important;
 	}
 
 		#header a {
