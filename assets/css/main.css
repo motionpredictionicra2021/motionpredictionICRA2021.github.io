@@ -288,6 +288,16 @@ input, select, textarea {
 
 		}
 
+		.redText
+		{
+	    	color: red;
+		}
+
+		.greenText
+		{
+	    	color: green;
+		}
+
 /* Row */
 
 	.row {
